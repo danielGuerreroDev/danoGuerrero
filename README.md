@@ -2,14 +2,14 @@
 
 
 ## 🚀 About Me
-I'm Daniel Guerrero, a **Frontend Web Developer** (React Applications).🌐
+I'm Daniel Guerrero, a **Front-end Web Developer** (React Applications).🌐
 
-I do have knowledge about backend development.✅
+I do have knowledge about back-end development.✅
 ## 🚨 Demo
-#### Frontend
+#### Front-end
 https://inventory-management-net.onrender.com
 
-#### Backend
+#### Back-end
 https://inventory-management-gu28.onrender.com/getProducts
 
 ## 🛠 Skills
