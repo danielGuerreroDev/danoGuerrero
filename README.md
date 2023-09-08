@@ -9,6 +9,8 @@ I do have knowledge about back-end development.✅
 #### Front-end
 https://inventory-management-net.onrender.com
 
+https://stats-c8eo.onrender.com/
+
 #### Back-end
 https://inventory-management-gu28.onrender.com/getProducts
 
